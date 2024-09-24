@@ -8,10 +8,10 @@
  <style>
  body {
  font-family: Tahorma, sans-serif;
- background-color: #6495ED
+ background-color: #ffe4e1
  margin: 0;
  padding: 20px;
- color: #333;
+ color: #ffc0cb;
 
  }
  header {
@@ -63,8 +63,8 @@
 
  <main>
  <h2>About This Page</h2>
- <p>This is a performance task assigned by ms jenina to create you’re own website,this 
-</p> just the outline sample </p>
+ <p>Written poems from my heart.<p>
+ </p>  </p>
  
  <h3>Features</h3>
  <ul>
