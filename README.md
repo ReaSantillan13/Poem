@@ -8,7 +8,7 @@
  <style>
  body {
  font-family: Tahorma ;
- background-color: #ffe4e1
+ background-color: red
  margin: 0;
  padding: 20px;
  color: #ffc0cb;
