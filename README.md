@@ -7,15 +7,15 @@
  <title>Poems</title>
  <style>
  body {
- font-family: Tahorma ;
- background: #F08080 ;
+ font-family: Tahorma;
+ background: #F08080;
  margin: 0;
  padding: 20px;
  color: #ffc0cb ;
 
  }
  header {
- background-color: #FFB6C1 ;
+ background-color: #FFB6C1;
  color: light pink;
  padding: 10px 0;
  text-align: center;
