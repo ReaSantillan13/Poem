@@ -8,14 +8,14 @@
  <style>
  body {
  font-family: Tahorma ;
- background-color: red
+ background: #F08080 ;
  margin: 0;
  padding: 20px;
- color: #ffc0cb;
+ color: #ffc0cb ;
 
  }
  header {
- background-color: #FFB6C1
+ background-color: #FFB6C1 ;
  color: light pink;
  padding: 10px 0;
  text-align: center;
@@ -35,7 +35,7 @@
  }
  main {
  padding: 20px;
- background-color: #FFDAB9
+ background-color: #FFDAB9;
  border-radius: 8px;
  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 
