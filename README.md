@@ -68,9 +68,9 @@
  
  <h3>Features</h3>
  <ul>
- <li>Easy to edit and customize.</li>
- <li>Basic styling with CSS.</li>
- <li>Responsive layout that looks good on all devices.</li>
+ <li>Rhymed poetry..</li>
+ <li>Lyric poetry.</li>
+ <li>Poems about Elegies.</li>
  </ul>
  </main>
 
